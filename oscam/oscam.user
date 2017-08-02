@@ -1,0 +1,7 @@
+# oscam.user generated automatically by Streamboard OSCAM 1.20-unstable_svn SVN r0
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.user.txt
+
+[account]
+user                          = tvheadend
+group                         = 1
+

